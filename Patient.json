@@ -1,0 +1,30 @@
+{
+  "P001": {
+    "name": "Rahul Sharma",
+    "age": 60,
+    "gender": "female",
+    "blood_group": "B+",
+    "disease": "Fever"
+  },
+  "P003": {
+    "name": "Mohit Kumar",
+    "age": 45,
+    "gender": "male",
+    "blood_group": "A-",
+    "disease": "Hypertension"
+  },
+  "P004": {
+    "name": "Sneha Patel",
+    "age": 22,
+    "gender": "female",
+    "blood_group": "AB+",
+    "disease": "Asthma"
+  },
+  "P005": {
+    "name": "Arjun Singh",
+    "age": 51,
+    "gender": "male",
+    "blood_group": "O-",
+    "disease": "Heart Disease"
+  }
+}
